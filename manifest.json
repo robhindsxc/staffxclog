@@ -1,0 +1,8 @@
+{
+"name":"XC Notepad",
+"short_name":"Notepad",
+"display":"standalone",
+"start_url":"./",
+"background_color":"#A50034",
+"theme_color":"#A50034"
+}
